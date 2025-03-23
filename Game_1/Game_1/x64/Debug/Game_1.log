@@ -1,0 +1,5 @@
+﻿  game.c
+  text.c
+  正在生成代码...
+D:\C语言练习新篇\C_task\Game_1\Game_1\text.c(54,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Game_1.vcxproj -> D:\C语言练习新篇\C_task\Game_1\x64\Debug\Game_1.exe
