@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u8BED\u8A00\u7EC3\u4E60\u65B0\u7BC7\\C_task\\Test_4_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A73A65EA-EF41-43C4-843E-B66311432F1D}|Test_4_1\\Test_4_1.vcxproj|D:\\C\u8BED\u8A00\u7EC3\u4E60\u65B0\u7BC7\\C_task\\Test_4_1\\Test_4_1\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A73A65EA-EF41-43C4-843E-B66311432F1D}|Test_4_1\\Test_4_1.vcxproj|solutionrelative:Test_4_1\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text.c",
+              "DocumentMoniker": "D:\\C\u8BED\u8A00\u7EC3\u4E60\u65B0\u7BC7\\C_task\\Test_4_1\\Test_4_1\\text.c",
+              "RelativeDocumentMoniker": "Test_4_1\\text.c",
+              "ToolTip": "D:\\C\u8BED\u8A00\u7EC3\u4E60\u65B0\u7BC7\\C_task\\Test_4_1\\Test_4_1\\text.c",
+              "RelativeToolTip": "Test_4_1\\text.c",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-01T12:20:03.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
