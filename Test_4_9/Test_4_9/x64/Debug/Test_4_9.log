@@ -1,0 +1,3 @@
+﻿  text.c
+D:\C语言练习新篇\C_task\Test_4_9\Test_4_9\text.c(128,10): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+LINK : fatal error LNK1168: 无法打开 D:\C语言练习新篇\C_task\Test_4_9\x64\Debug\Test_4_9.exe 进行写入
